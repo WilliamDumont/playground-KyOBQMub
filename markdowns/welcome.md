@@ -1,6 +1,4 @@
-	
-
-The charts are more meaningful when they have axes around them. The axes tell the quantity of a particular datum represented on the plane. This a how-to post to create the axes with scales around a D3 chart. To read the previous blog of this series goto – Introduction to D3.js {Part – 2}
+The charts are more meaningful when they have axes around them. The axes tell the quantity of a particular datum represented on the plane. This a how-to post to create the axes with scales around a D3 chart.
 
 D3 provides .json() method to load the JSON data from a URL. This method takes two parameters – first, a URL that returns a JSON data and second, an anonymous method that takes action on the data coming from the server (current directory in my case). This anonymous method is asynchronous by nature and and takes at most two parameter. The following lines loads the data from a JSON file from my current directory:
 
@@ -293,4 +291,3 @@ Finally our graph is ready and it looks like this-
 ![scatterplot-for-blog](https://ashishtomerblog.files.wordpress.com/2017/08/scatterplot-for-blog.png?w=730)
 
 Happy learning!!!
-
