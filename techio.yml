@@ -1,8 +1,10 @@
-title : Basic template
+title : Scales and Axes in D3
+
+cover: Logo_D3.svg.png
 
 # Table of content
 plan:
-  - title: Welcome # Set the page title (only displayed if your contribution has several pages)
+  - title: Creating D3 Scatterplot with Scales and Axes
     statement: markdowns/welcome.md # Set the file path to the page content
 #  - title: Another Page
 #    statement: markdowns/another-page.md
