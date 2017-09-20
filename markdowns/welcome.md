@@ -1,6 +1,4 @@
-The charts are more meaningful when they have axes around them. The axes tell the quantity of a particular datum represented on the plane. This a how-to post to create the axes with scales around a D3 chart.
 
-D3 provides .json() method to load the JSON data from a URL. This method takes two parameters – first, a URL that returns a JSON data and second, an anonymous method that takes action on the data coming from the server (current directory in my case). This anonymous method is asynchronous by nature and and takes at most two parameter. The following lines loads the data from a JSON file from my current directory:
 
 	var svgHeight = 500;
 	var svgWidth = 800;
